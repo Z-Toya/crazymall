@@ -15,6 +15,7 @@
 		<module>crazymall-member</module>
 		<module>crazymall-order</module>
 		<module>crazymall-product</module>
+		<module>renren-fast</module>
 	</modules>
 
 
